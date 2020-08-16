@@ -2,7 +2,7 @@
 
 **Tier:** 1-Beginner
 
-**Ideia:** [Aqui](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
+**Ideia:** [Aqui](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md)
 
 
 Calculators are not only one of the most useful tools available, but they are
