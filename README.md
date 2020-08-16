@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="Calculator" title="#Calculator" src="./assets/index.png" />
+</h1>
+
 # Bin2Dec
 
 **Tier:** 1-Beginner
